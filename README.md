@@ -4,10 +4,6 @@ Bem-vindo(a) ao repositório do meu **Currículo Digital**! 👩‍💻
 
 Este projeto foi desenvolvido com o objetivo de apresentar minha trajetória profissional e acadêmica, minhas habilidades, experiências e projetos de forma simples, moderna e acessível pela web.
 
-## 🌐 Acesse meu currículo
-
-👉 **[Visualizar Currículo Digital](https://rodrigues-giovanna.github.io/Curriculo-Digital-/)**
-
 ## 💻 Sobre o projeto
 
 O **Currículo Digital** é uma página web criada para reunir, em um único lugar, informações sobre minha formação, experiências, habilidades e conhecimentos na área de tecnologia.
@@ -38,6 +34,8 @@ Curriculo-Digital-/
 ## 🚀 Publicação
 
 O projeto está hospedado utilizando o **GitHub Pages**, permitindo que o currículo seja acessado diretamente pelo navegador.
+
+## 🌐 Acesse meu currículo
 
 🔗 **[Acessar o currículo](https://rodrigues-giovanna.github.io/Curriculo-Digital-/)**
 
