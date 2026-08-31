@@ -17,21 +17,20 @@ A proposta é disponibilizar uma versão online do meu currículo, facilitando o
 * Git
 * GitHub
 * GitHub Pages
+* 
 
 ## 📂 Estrutura do projeto
 
+```text
 Curriculo-Digital-/
 │
-├── 📁 img/
-│
-├── 📁 projetos/
-│
-├── 📄 README.md
-├── 📄 index.html
-├── 📄 script.js
-└── 📄 style.css
-
-
+├── img/
+├── projetos/
+├── README.md
+├── index.html
+├── script.js
+└── style.css
+```
 
 ## 🚀 Publicação
 
