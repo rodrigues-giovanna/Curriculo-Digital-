@@ -31,6 +31,8 @@ Curriculo-Digital-/
 ├── 📄 script.js
 └── 📄 style.css
 
+
+
 ## 🚀 Publicação
 
 O projeto está hospedado utilizando o **GitHub Pages**, permitindo que o currículo seja acessado diretamente pelo navegador.
