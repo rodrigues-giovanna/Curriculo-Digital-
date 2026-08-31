@@ -20,16 +20,16 @@ A proposta é disponibilizar uma versão online do meu currículo, facilitando o
 
 ## 📂 Estrutura do projeto
 
-```text
 Curriculo-Digital-/
 │
-├── index.html
-├── style.css
-├── imagens/
-└── README.md
-```
-
-> A estrutura pode variar de acordo com os arquivos presentes no projeto.
+├── 📁 img/
+│
+├── 📁 projetos/
+│
+├── 📄 README.md
+├── 📄 index.html
+├── 📄 script.js
+└── 📄 style.css
 
 ## 🚀 Publicação
 
