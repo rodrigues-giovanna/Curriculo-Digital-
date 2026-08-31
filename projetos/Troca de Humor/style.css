@@ -1,0 +1,129 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: "Courier New", monospace;
+
+  background: #050505;
+
+  color: #00ff66;
+
+  transition: 0.5s;
+}
+
+.cartao {
+  width: 350px;
+
+  background: #101010;
+
+  border: 2px solid #00ff66;
+
+  border-radius: 12px;
+
+  box-shadow: 0 0 25px #00ff6644;
+
+  overflow: hidden;
+
+  transition: 0.5s;
+}
+
+.topo {
+  height: 35px;
+
+  background: #181818;
+
+  display: flex;
+  align-items: center;
+
+  gap: 7px;
+
+  padding-left: 15px;
+}
+
+.topo span {
+  font-size: 12px;
+}
+
+.topo span:nth-child(1) {
+  color: #ff3333;
+}
+
+.topo span:nth-child(2) {
+  color: #ffff00;
+}
+
+.topo span:nth-child(3) {
+  color: #00ff66;
+}
+
+.conteudo {
+  padding: 35px;
+
+  text-align: center;
+}
+
+.codigo {
+  text-align: left;
+
+  color: #777;
+
+  font-size: 14px;
+}
+
+#emoji {
+  font-size: 65px;
+
+  margin: 20px 0;
+}
+
+h1 {
+  font-size: 24px;
+
+  letter-spacing: 2px;
+
+  text-shadow: 0 0 10px currentColor;
+}
+
+#mensagem {
+  color: #aaa;
+
+  font-size: 16px;
+
+  min-height: 45px;
+
+  line-height: 1.5;
+}
+
+button {
+  padding: 12px 20px;
+
+  margin-top: 15px;
+
+  background: #101010;
+
+  color: #00ff66;
+
+  border: 2px solid #00ff66;
+
+  border-radius: 6px;
+
+  font-family: "Courier New", monospace;
+
+  font-weight: bold;
+
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #00ff66;
+
+  color: #000;
+
+  box-shadow: 0 0 20px #00ff66;
+}
